@@ -20,7 +20,7 @@ Getting Started:
 
 To get started with the OBS Food app, clone the repository and install the dependencies:
 
-git clone https://github.com/olubusade/nextjs-foodies-app-new.git
+git clone https://github.com/olubusade/nextjs-foodies-new.git
 cd obs-food-app
 npm install
 
@@ -44,4 +44,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 Contact:
 
-Project Link: https://github.com/olubusadea/nextjs-foodies-app-new
+Project Link: https://github.com/olubusadea/nextjs-foodies-new
